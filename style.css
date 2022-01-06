@@ -2,9 +2,10 @@
     background-color: #cbe1ff;
     padding: 2rem 0rem 0rem;
 }
-.jumbotron h1{
+.header{
     font-variant: small-caps;
     font-weight: 500;
+    font-size: 42px;
 }
 .coll1{
     padding-left: 1rem;
@@ -21,4 +22,7 @@
 }
 .data-diri tbody tr td{
     padding: 2px 5px;
+}
+#motivasi p{
+    text-align: center;
 }
