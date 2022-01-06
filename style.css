@@ -1,6 +1,9 @@
-.jumbotron, #ekpektasi{
+.jumbotron{
     background-color: #cbe1ff;
-    padding: 2rem 0rem 0rem;
+    padding: 6rem 0rem 0rem;
+}
+#data-diri{
+    padding: 5rem 0rem 0rem;
 }
 .header{
     font-variant: small-caps;
@@ -24,25 +27,41 @@
     padding: 2px 5px;
 }
 #motivasi{
-    padding: 1rem 0 0;
+    padding: 4rem 0 0;
+    background-color: white;
 }
 p{
     text-align: center;
 }
 #ekspektasi{
     background-color: #cbe1ff;
-    padding: 1rem 0 0;
+    padding: 4rem 0 0;
 }
 #tech-stack{
-    padding: 2rem 0 0;
+    padding: 4rem 0 0;
+    background-color: white;
 }
 #kontak{
     background-color: #cbe1ff;
     padding: 1rem 0 2rem;
 }
+#kontak p{
+    margin: 0;
+    background-color: white;
+}
 .sosmed{
+    padding: 5px 10px;
+    margin: 3px 0px;
+}
+.sosmed:link{
     display: inline-block;
-    margin: 3px 10px 0px;
+    background-color: #cbe1ff;
+}
+.sosmed:hover{
+    background-color: white;
+}
+.sosmed:active{
+    background-color:lightgray;
 }
 .logo{
     width: 30px;
@@ -56,19 +75,20 @@ p{
 #kontak p{
     display: inline-block;
     text-align: left;
+    background-color: inherit;
 }
 .gmail{
-    width: 338px;
+    width: 358px;
 }
 .linkedin{
-    width: 226px;
+    width: 246px;
 }
 .github{
-    width: 112.5px;
+    width: 132.5px;
 }
 .line{
-    width: 110px;
+    width: 130px;
 }
 .instagram{
-    width: 153px;
+    width: 173px;
 }
