@@ -1,0 +1,21 @@
+.jumbotron{
+    background-color: rgb(203, 225, 255);
+    padding: 2rem 1rem;
+}
+.jumbotron h1{
+    font-variant: small-caps;
+    font-weight: 500;
+}
+.jumbotron img{
+    float: left;
+    margin: auto;
+}
+table{
+    font-size: 18px;
+}
+td{
+    padding: 3px 5px;
+}
+.isi{
+    margin: auto;
+}
