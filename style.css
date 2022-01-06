@@ -36,3 +36,39 @@ p{
 #tech-stack{
     padding: 2rem 0 0;
 }
+#kontak{
+    background-color: #cbe1ff;
+    padding: 1rem 0 2rem;
+}
+.sosmed{
+    display: inline-block;
+    margin: 3px 10px 0px;
+}
+.logo{
+    width: 30px;
+}
+#kontak a{
+    text-decoration: none;
+    display: inline-block;
+    text-align: left;
+    color: black;
+}
+#kontak p{
+    display: inline-block;
+    text-align: left;
+}
+.gmail{
+    width: 338px;
+}
+.linkedin{
+    width: 226px;
+}
+.github{
+    width: 112.5px;
+}
+.line{
+    width: 110px;
+}
+.instagram{
+    width: 153px;
+}
