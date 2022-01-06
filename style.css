@@ -1,4 +1,4 @@
-.jumbotron{
+.jumbotron, #ekpektasi{
     background-color: #cbe1ff;
     padding: 2rem 0rem 0rem;
 }
@@ -23,9 +23,16 @@
 .data-diri tbody tr td{
     padding: 2px 5px;
 }
+#motivasi{
+    padding: 1rem 0 0;
+}
 p{
     text-align: center;
 }
 #ekspektasi{
     background-color: #cbe1ff;
+    padding: 1rem 0 0;
+}
+#tech-stack{
+    padding: 2rem 0 0;
 }
