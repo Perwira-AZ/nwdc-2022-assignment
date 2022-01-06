@@ -13,9 +13,12 @@
 table{
     font-size: 18px;
 }
-td{
-    padding: 3px 5px;
-}
 .isi{
     margin: auto;
+}
+.data-diri{
+    margin: 0px 0px 0px 10px;
+}
+.data-diri tbody tr td{
+    padding: 2px 5px;
 }
